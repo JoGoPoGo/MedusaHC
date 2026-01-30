@@ -1,7 +1,7 @@
 
 # MedusaHC (Beta)
 
-![MedusaHC](MedusaHC/Images/MedusaHC_image.png)
+![MedusaHC](Images/MedusaHC_image.png)
 
 
 MedusaHC is an open-source toolchanger (hotend-changer) project.  
