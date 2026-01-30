@@ -136,6 +136,8 @@ Personally, I use **klipper-tmc-autotune** for tuning motor drivers.
 
 In my opinion, the optimal screen is **BTT HDMI5**.
 
+https://s.click.aliexpress.com/e/_c4odBUeJ
+
 I also use the **Eddy-ng** module for auto-calibration and nozzle tap probing.  
 In my setup, Eddy is connected via **CAN** (to save USB ports).
 
