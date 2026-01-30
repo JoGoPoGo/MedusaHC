@@ -52,7 +52,7 @@ For a general understanding, I recommend watching the first video about this pro
 
 Link to BOM
 
-https://docs.google.com/spreadsheets/d/1xkOzb10DBJzalW4n1tYroh-m_ZFsTQipC1BpUh5ZMWY/edit?gid=242357563#gid=242357563 
+https://docs.google.com/spreadsheets/d/1xkOzb10DBJzalW4n1tYroh-m_ZFsTQipC1BpUh5ZMWY/edit?gid=1290815756#gid=1290815756
 
 For this project you need to buy quite a lot of parts. I tried not to use expensive and rare components. The list of all required parts can be found in the file MedusaHC_BOM.txt. This file will be updated as the project updates.
 
