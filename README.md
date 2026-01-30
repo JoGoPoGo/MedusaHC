@@ -45,6 +45,9 @@ Later I will make a full video where I explain how everything works and how to s
 
 For a general understanding, I recommend watching the first video about this project on my YouTube channel. You will not find all the information there, but you can get a general idea of how it works.
 
+[![MedusaHC video](https://img.youtube.com/vi/hpV5Z1TnGdY/maxresdefault.jpg)](https://www.youtube.com/watch?v=hpV5Z1TnGdY)
+
+
 ## Parts, BOM, and files
 
 For this project you need to buy quite a lot of parts. I tried not to use expensive and rare components. The list of all required parts can be found in the file MedusaHC_BOM.txt. This file will be updated as the project updates.
