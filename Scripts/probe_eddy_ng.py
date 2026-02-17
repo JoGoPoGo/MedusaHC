@@ -195,7 +195,7 @@ class ProbeEddyParams:
     # as it will cause your toolhead to try to push through your build plate in
     # the case of a failed tap. A value like -0.250 is no worse than moving the
     # nozzle down one or two notches too far when doing manual Z adjustment.
-    tap_target_z: float = -0.250
+    tap_target_z: float = -3
     # the tap mode to use. 'wma' is a derivative of weighted moving average,
     # 'butter' is a butterworth filter
     tap_mode: str = "butter"
